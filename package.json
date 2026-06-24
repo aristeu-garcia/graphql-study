@@ -16,7 +16,10 @@
     "typescript": "^6.0.3"
   },
   "dependencies": {
+    "@apollo/gateway": "^2.14.1",
     "@apollo/server": "^5.5.1",
-    "graphql": "^16.14.2"
+    "@apollo/subgraph": "^2.14.1",
+    "graphql": "^16.14.2",
+    "graphql-tag": "^2.12.7"
   }
 }
